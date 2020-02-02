@@ -1,5 +1,5 @@
 import { Jugador } from './clases';
-xdescribe('Pruebas de clases ', ()=>{
+describe('Pruebas de clases ', ()=>{
 
     // Intancio clase de forma global
     let jugador = new Jugador(); // utilizamos let en vez de const porque lo cambiaremos
